@@ -7,8 +7,7 @@
 <img src="https://laravelnews.s3.amazonaws.com/images/laravel9-1645586911.jpg" alt="Logo" width="1000" height="400">
 ### Passo a passo
 Clone Repositório
-```sh
-git clone https://github.com/especializati/setup-docker-laravel.git my-project
+```https://github.com/abraao69/Setup-docker-Laravel-9-com-php-8.git
 ```
 ```sh
 cd my-project/
