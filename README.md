@@ -1,7 +1,10 @@
 
 # Setup Docker Para Projetos Laravel
-[Assine a Academy, e Seja VIP!](https://academy.especializati.com.br)
-
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/abraao69/Setup-Docker-PHP-7.4/blob/master/logo.png" alt="Logo" width="200" height="100">
+  <br><br>
+</div>
+<img src="https://laravelnews.s3.amazonaws.com/images/laravel9-1645586911.jpg" alt="Logo" width="1000" height="400">
 ### Passo a passo
 Clone Repositório
 ```sh
